@@ -63,7 +63,8 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus estudos:
     <a href="https://www.instagram.com/gui88silva/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.flaticon.com/br/icones-gratis/cv" title="cv ícones"target="_blank">Currículo </a>
+  <a href="Currículo - Edson.pdf" target="_blank">Currículo </a>
+  <img href="https://www.flaticon.com/br/icones-gratis/cv">
 
 
 </p>
