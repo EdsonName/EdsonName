@@ -64,6 +64,11 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus estudos:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+## 📄 Aqui Estar o Meu Currículo 😊
+
+Confira meu currículo em PDF para mais informações sobre minha formação e experiências profissionais:
+
+<a href="Currículo - Edson.pdf" target="_blank">Visualizar meu Currículo em PDF </a>
 
 ---
 
