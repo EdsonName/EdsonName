@@ -68,7 +68,7 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus estudos:
 
 Confira meu currículo em PDF para mais informações sobre minha formação e experiências profissionais:
 
-<a href="Currículo - Edson.pdf" target="_blank">Visualizar meu Currículo em PDF </a>
+<a href="[Currículo - Edson.pdf](https://github.com/EdsonName/Meu_Portifolio/blob/52425b9cdc1b897fdbc01167d6b852c6be9310a0/Curr%C3%ADculo%20-%20Edson.pdf)" target="_blank">Visualizar meu Currículo em PDF </a>
 
 ---
 
