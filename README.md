@@ -63,10 +63,6 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus estudos:
     <a href="https://www.instagram.com/gui88silva/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="Currículo - Edson.pdf" target="_blank">Currículo </a>
-  <img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/:fileId">
-
-
 </p>
 
 ---
