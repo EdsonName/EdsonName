@@ -63,6 +63,10 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus estudos:
     <a href="https://www.instagram.com/gui88silva/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="cv.HTML" target="_blank">
+    <img alt="Coverity Scan" src="https://img.shields.io/coverity/scan/:projectId" />
+  </a>
+
 </p>
 
 ---
